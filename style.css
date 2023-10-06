@@ -1,5 +1,5 @@
 .resumo{
-    border: 5px;
+    border-style: solid;
     color: lightblue;
     width:20rem;
     height: 50px;
@@ -7,24 +7,27 @@
 
 }
 .explicacao{
-    border: 20px;
+    border-style: solid;
     color: orange;
-    width: 15rem;
-    height:5rem ;
+    width: auto;
+    height: max-content;
+    
 
 }
 .aplicacao{ 
-    border: ;
-    color: ;
-    width: ;
-    height: ;
+    border-style: solid;
+    color: aqua;
+    width: 5%;
+    height: 10rem;
+
 
 }
 .finalizacao{
-    border: ;
-    color: ;
-    width: ;
-    height: ;
+    border-style:solid;
+    color: green;
+    width: auto;
+    height: 5rem;
+
     
 }
 
